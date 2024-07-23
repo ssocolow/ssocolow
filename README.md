@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![linkedin](https://img.shields.io/badge/linkedin-black?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/simon-socolow/)](https://www.linkedin.com/in/simon-socolow/)
 [![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://ssocolow.github.io)](https://ssocolow.github.io)
 
-I'm passionate about empowering individuals and making interesting ideas reality.  
+I'm passionate about empowering individuals and building cool stuff.  
 I'm currently studying CS at Williams College. 
 
 <!--* Machine Learning & Software Engineer Intern at [Facebook](https://about.meta.com)
