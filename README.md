@@ -20,8 +20,4 @@ Here are some ideas to get you started:
 [![blog](https://img.shields.io/badge/blog-black?logo=jekyll&logoColor=white&link=https://ssocolow.github.io)](https://ssocolow.github.io)
 
 I'm passionate about empowering individuals and exploring the applications of interesting ideas.  
-I'm currently studying CS at Williams College - studying abroad at Exeter College, Oxford for my junior year. 
-
-<!--* Machine Learning & Software Engineer Intern at [Facebook](https://about.meta.com)
-* Machine Learning Engineer Intern at [Hugging Face](https://huggingface.co)
-* Machine Learning Research Intern at [Neosapience](https://neosapience.com)-->
+I'm currently studying CS at Williams College.
